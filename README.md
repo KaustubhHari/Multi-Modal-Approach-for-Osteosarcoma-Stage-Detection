@@ -9,8 +9,13 @@ HOW TO RUN THE PROJECT
 git clone https://github.com/KaustubhHari/Multi-Modal-Approach-for-Osteosarcoma-Stage-Detection.git          
 cd osteosarcoma-stage-classification      
 
-2. Set Up Environment
-pip install -r requirements.txt
+2. Set Up Environment:          
+pip install -r requirements.txt     
+(Make sure you have TensorFlow, Keras, OpenCV, Flask, NumPy, and Matplotlib installed)
 
+3. Run the Flask App:         
+python app.py             
+Go to http://127.0.0.1:5000 in your browser and test the application.
 
-
+📸 SAMPLE PREDICTION
+![Screenshot_20250509_101335](https://github.com/user-attachments/assets/aa06b4be-c9ca-4b29-9f54-b9598f4827dd)
