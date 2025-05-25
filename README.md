@@ -6,7 +6,7 @@ Osteosarcoma is an aggressive form of bone cancer. Accurate and early detection 
 
 HOW TO RUN THE PROJECT         
 1. Clone the Repository:
-git clone https://github.com/yourusername/osteosarcoma-stage-classification.git          
+git clone https://github.com/KaustubhHari/Multi-Modal-Approach-for-Osteosarcoma-Stage-Detection.git          
 cd osteosarcoma-stage-classification      
 
 2. Set Up Environment
