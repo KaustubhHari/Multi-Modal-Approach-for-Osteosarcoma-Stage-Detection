@@ -3,3 +3,4 @@ This project implements a deep learning-based web application to classify osteos
 
 Project Overview         
 Osteosarcoma is an aggressive form of bone cancer. Accurate and early detection is critical for improving patient outcomes. This project automates X-ray classification into meaningful clinical stages using state-of-the-art computer vision techniques, allowing healthcare professionals to make informed decisions.
+I do
