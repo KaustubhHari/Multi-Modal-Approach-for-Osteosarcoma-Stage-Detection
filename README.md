@@ -5,7 +5,7 @@ PROJECT OVERVIEW
 Osteosarcoma is an aggressive form of bone cancer. Accurate and early detection is critical for improving patient outcomes. This project automates X-ray classification into meaningful clinical stages using advanced medical imaging classification techniques, allowing healthcare professionals to make informed decisions.    
 
 HOW TO RUN THE PROJECT         
-1. Clone the Repository:
+1. Clone the Repository:        
 git clone https://github.com/KaustubhHari/Multi-Modal-Approach-for-Osteosarcoma-Stage-Detection.git          
 cd osteosarcoma-stage-classification      
 
